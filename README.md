@@ -11,7 +11,7 @@ Specializing in Post-Quantum Cryptography, Automated AI Agents, and Resilient We
 
 ---
 
-### 🚀 About Me
+###About Me
 
 I design and build software at the intersection of **cryptographic security**, **autonomous AI auditing**, and **modern distributed web systems**. My work focuses on:
 * Implementing next-generation cryptographic primitives, including **NIST Post-Quantum Cryptography (ML-KEM / Kyber)**.
